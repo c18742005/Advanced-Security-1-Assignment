@@ -1,0 +1,2 @@
+cd ../AES/
+java KeyExpansionAES
